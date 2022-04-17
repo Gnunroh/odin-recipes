@@ -1,0 +1,108 @@
+body {
+    background-color: #DCE1E3;
+    color: #5C5F58;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 2%;
+    font-size: 20px;
+}
+
+.intro {
+    font-size: 26px;
+    width: 60%;
+    margin-bottom: 3%;
+}
+
+img {
+    width: 900px;
+    height: auto;
+    max-height: 600px;
+    object-fit: cover;
+}
+
+a {
+    color: #591C0B;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.home {
+    list-style-type: none;
+    padding-left: 0px
+
+}
+
+.home li {
+    vertical-align: middle;
+    border-width: 3px;
+    outline: 2px solid #591C0B;
+    width: 800px;
+    padding: 0%;
+    margin-bottom: 15px;
+    padding-left: 0px;
+}
+
+.home li a {
+    vertical-align: top;
+    padding-left: 10px;
+}
+
+ol {
+    line-height: 2em;
+}
+
+.previewimage {
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+    padding: 0%;
+    vertical-align: bottom;
+}
+
+.overview {
+    color: #591C0B;
+    font-size: 26px;
+    text-decoration: none;
+    line-height: 2em;
+}
+
+.homepage{
+    font-size: 70px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 40px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.footerlogo {
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+    background-color: #591C0B;
+    color: white;
+    vertical-align: middle;
+    margin-left: -3%;
+    margin-right: -0.3%;
+    margin-bottom: -6%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.footerpara {
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+    background-color: #591C0B;
+    color: white;
+    vertical-align: middle;
+    margin-left: -3%;
+    margin-right: -0.3%;
+    margin-bottom: -6%;
+    padding-top: 3%;
+    padding-bottom: 4%;
+}
